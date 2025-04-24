@@ -1,0 +1,6 @@
+PyMuPdf
+selenium
+beautifulsoup4
+requests
+webdriver-manager
+argparse
